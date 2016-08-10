@@ -1,7 +1,7 @@
 <img src="https://www.sayitlike.me/img/logo-no-text.svg" width="200">
 Sayitlike.me
 ===
-Is a free and open source service to help us with pronouncing each other's names. Pleas see it live at: https://SayItLike.Me
+Is a free and open source service to help us with pronouncing each other's names. Please see it live at: https://SayItLike.Me
 
 Users can login with their twitter account, record their name, and they'll get a personal page
 at:
